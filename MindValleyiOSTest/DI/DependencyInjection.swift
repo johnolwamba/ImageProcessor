@@ -1,9 +1,9 @@
 //
 //  DependencyInjection.swift
-//  SolidarityApp
+//  MindValleyiOSTest
 //
 //  Created by Johnstone Ananda on 06/08/2019.
-//  Copyright © 2019 Kuza Lab. All rights reserved.
+//  Copyright © 2019 MindValley. All rights reserved.
 //
 
 import Swinject
