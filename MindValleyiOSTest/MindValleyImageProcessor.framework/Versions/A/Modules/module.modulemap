@@ -1,0 +1,11 @@
+framework module MindValleyImageProcessor {
+  umbrella header "MindValleyImageProcessor.h"
+
+  export *
+  module * { export * }
+}
+
+module MindValleyImageProcessor.Swift {
+    header "MindValleyImageProcessor-Swift.h"
+    requires objc
+}

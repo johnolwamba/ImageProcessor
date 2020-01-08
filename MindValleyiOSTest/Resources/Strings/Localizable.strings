@@ -1,0 +1,35 @@
+////
+//  SafeBoda
+//
+//    Strings.swift written using Swift 4.0
+//
+//  Created on: 19/12/2018
+//
+//  Copyright © 2018 SafeBoda. All rights reserved.
+//
+
+// MARK: Common
+"Common_Okay" = "Okay";
+"Common_Cancel" = "Cancel";
+"Common_TryAgain" = "Try again";
+"Common_Retry" = "Retry";
+"Common_No" = "No";
+"Common_Yes" = "Yes";
+"Common_Hours" = "hour%@";
+"Common_Minutes" = "minute%@";
+"Common_ShortMinutes" = "min%@";
+"Common_PleaseWait" = "Please wait..";
+
+// MARK: Errors
+"Common_GeneralError" = "There was an error";
+"Common_InternetError" = "No internet connection";
+
+
+// MARK: Date
+"Date_Today" = "Today";
+"Date_Time" = "Time";
+"Date_Yesterday" = "Yesterday";
+
+
+// MARK: Home
+"Home_Title" = "What do you need?";
